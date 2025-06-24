@@ -19,7 +19,7 @@
 
 ## 🚀 Live Demo
 
-Try it now: [https://tagging-danger.github.io/direct-connect/](https://tagging-danger.github.io/direct-connect/)
+Try it now: [https://tagging-danger.github.io/direct-connect/](https://tagging-danger.github.io/chat-app/)
 
 You can also run the app locally or deploy it to any static hosting platform. Share the generated link with your chat partner to start a session.
 
