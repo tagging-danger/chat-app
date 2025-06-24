@@ -16,11 +16,11 @@ export default function MainLayout({ title }) {
       </main>
       <footer className="footer-meta">
         <span className="copyright-notice">
-          &copy; 2025 Erik Donath
+          &copy; 2025 Pratham
         </span>
         <a
           className="github-link"
-          href="https://github.com/Erik-Donath/direct-connect/"
+          href="https://github.com/tagging-danger/chat-app/"
           target="_blank"
           rel="noopener noreferrer"
         >
