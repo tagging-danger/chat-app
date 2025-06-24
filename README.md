@@ -1,6 +1,6 @@
 # Direct Connect
 
-[![GitHub Pages](https://img.shields.io/badge/demo-online-green)](https://tagging-danger.github.io/direct-connect/)
+[![GitHub Pages](https://img.shields.io/badge/demo-online-green)](https://tagging-danger.github.io/chat-app/)
 
 **Direct Connect** is a modern, privacy-first peer-to-peer web app for instant, direct sharing and chat. No server, no registration, no data stored. Built with WebRTC (PeerJS), it enables secure, direct communication between browsers with end-to-end encryption (E2EE). This is ideal for quick, private exchanges.
 
