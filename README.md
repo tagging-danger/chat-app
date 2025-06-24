@@ -1,6 +1,6 @@
 # Direct Connect
 
-[![GitHub Pages](https://img.shields.io/badge/demo-online-green)](https://erik-donath.github.io/direct-connect/)
+[![GitHub Pages](https://img.shields.io/badge/demo-online-green)](https://tagging-danger.github.io/direct-connect/)
 
 **Direct Connect** is a modern, privacy-first peer-to-peer web app for instant, direct sharing and chat. No server, no registration, no data stored. Built with WebRTC (PeerJS), it enables secure, direct communication between browsers with end-to-end encryption (E2EE). This is ideal for quick, private exchanges.
 
@@ -19,7 +19,7 @@
 
 ## 🚀 Live Demo
 
-Try it now: [https://erik-donath.github.io/direct-connect/](https://erik-donath.github.io/direct-connect/)
+Try it now: [https://tagging-danger.github.io/direct-connect/](https://tagging-danger.github.io/direct-connect/)
 
 You can also run the app locally or deploy it to any static hosting platform. Share the generated link with your chat partner to start a session.
 
