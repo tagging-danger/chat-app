@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <script>
+      var pathname = location.pathname;
+      var base = pathname.slice(0, pathname.lastIndexOf('/') + 1);
+      var path = pathname.slice(base.length) + location.search + location.hash;
+      var newUrl = base + '#?redirected&path=' + encodeURIComponent(path);
+      console.log("Redirecting to:", newUrl);
+      location.replace(newUrl);
+    </script>
+    <p>Redirecting...</p>
+  </body>
+</html>
