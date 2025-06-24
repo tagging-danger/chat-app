@@ -1,7 +1,7 @@
 {
   "name": "direct-connect",
   "description": "An simple direct chat using WebRTC (PeerJS) for the connection. No message server required.",
-  "homepage": "",
+  "homepage": "https://tagging-danger.github.io/chat-app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@chatereum/react-e2ee": "^3.0.1",
@@ -28,6 +29,7 @@
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.16",
+    "gh-pages": "^6.3.0",
     "globals": "^15.14.0",
     "vite": "^6.0.5"
   }
